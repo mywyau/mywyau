@@ -4,7 +4,7 @@
 
 💻 Skilled in Scala, TypeScript, Rust
 
-💻 Various experiences with Typelevel stack, PostgreSQL, MongoDB, REST APIs
+💻 Various experiences with Typelevel stack, PostgreSQL, MongoDB, REST APIs, Latex and other random things
 
 💻 Testing tools: Scalatest, Weaver Tests, Cucumber, Gatling    
 
