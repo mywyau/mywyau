@@ -1,21 +1,18 @@
-## Hi there 👋
 
 🚀 Software Developer | 5+ Years of problem solving and building. 
 
-💻 Skilled in Scala, TypeScript, Rust
+💻 Skilled in Scala, TypeScript
 
 💻 Various experiences with Typelevel stack, PostgreSQL, MongoDB, REST APIs, LaTeX, and other random things
 
 💻 Testing tools: Scalatest, Weaver Tests, Cucumber, Gatling    
 
-🔍 Passionate about Functional programming, sustainability, and maintainability
-
-✨ Focused on building scalable, reliable, and maintainable software
+🔍 Passionate about Functional programming
 
 🌱 Always learning and exploring cutting-edge tools and technologies
 
 - 🔭 I’m currently working on: Next.js, React, and Typelevel Stack
-- 🌱 I’m currently learning: Next.js, React, and Typelevel Stack
+- 🌱 I’m currently learning: Next.js, React, Typelevel Stack and Rust
 - 🤔 I’m looking for help with: AWS and cloud technologies
 - 📫 Drop me an email: m.yw.yau@gmail.com
 
