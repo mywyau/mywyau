@@ -1,5 +1,5 @@
 
-🚀 Software Developer | 5+ Years of problem solving and building. 
+### Software Developer | 5+ Years of problem solving and building. 
 
 💻 Skilled in Scala, TypeScript
 
