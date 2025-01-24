@@ -18,3 +18,6 @@
 - 🌱 I’m currently learning: Next.js, React and Typelevel Stack
 - 🤔 I’m looking for help with: AWS and cloud technologies
 - 📫 Drop me an email: m.yw.yau@gmail.com
+
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
