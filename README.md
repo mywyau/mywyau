@@ -14,9 +14,7 @@
 
 🌱 Always learning and exploring cutting-edge tools and technologies
 
-Let’s connect and collaborate! 🌐
-
 - 🔭 I’m currently working on: Next.js, React and Typelevel Stack
 - 🌱 I’m currently learning: Next.js, React and Typelevel Stack
 - 🤔 I’m looking for help with: AWS and cloud technologies
-- 📫 How to reach me: m.yw.yau@gmail.com
+- 📫 Drop me an email: m.yw.yau@gmail.com
