@@ -27,6 +27,5 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Scalatest](https://img.shields.io/badge/Scalatest-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-E1512C?style=for-the-badge&logo=gatling&logoColor=white)
