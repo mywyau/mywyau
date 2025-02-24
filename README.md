@@ -5,7 +5,7 @@
 
 💻 Various experiences with Typelevel stack, PostgreSQL, MongoDB, REST APIs, LaTeX, and other random things
 
-💻 Testing tools: Scalatest, Weaver Tests, Cucumber, Gatling    
+💻 Testing tools: Scalatest, Weaver Tests, Cucumber, Gatling, Selenium    
 
 🔍 Passionate about Functional programming
 
