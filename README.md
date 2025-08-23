@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Michael Yau
+# 👋 Hi, Mike here
 
 ### Scala & TypeScript Developer | Functional Programming Enthusiast | 5+ Years of Experience
 
