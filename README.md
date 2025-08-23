@@ -1,4 +1,4 @@
-# 👋 Hi, Mike here
+## 👋 Hi, Michael here
 
 ### Scala & TypeScript Developer | Functional Programming Enthusiast | 5+ Years of Experience
 
