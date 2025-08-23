@@ -50,7 +50,7 @@
 - 🏢 Current role: **Scala Developer at HMRC**  
 - ⚡ Building personal project backend systems using the **Typelevel stack**  
 - 📚 Exploring **Kafka** & **Event-driven architecture**  
-- ✍️ Writing about programming & software development on [my blog](mywyau.com)  
+- ✍️ Writing about programming & software development on [my blog](mywyau.dev)  
 
 ---
 
