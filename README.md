@@ -1,8 +1,7 @@
 ## 👋 Hi, Michael here
 
-### Scala & TypeScript Developer | Functional Programming Enthusiast | 5+ Years of Experience
-
-💻 Experienced in building robust backends, APIs, and cloud-native applications.  
+### Scala & TypeScript Developer 
+Experienced in building robust backends, APIs, and cloud-native applications.  
 🌱 Passionate about **functional programming** and always exploring cutting-edge tools.  
 🔍 Strong focus on **clean, testable code** and scalable architectures.  
 🚀 Currently working with the **Typelevel stack** (Cats, Cats Effect, FS2, http4s, Doobie) and **Nuxt 3**.  
