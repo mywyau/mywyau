@@ -1,12 +1,10 @@
 ## 👋 Hi, Michael here
 
-### Scala & TypeScript Developer 
-Experienced in building robust backends, APIs, and cloud-native applications.  
+### Software Developer 
 🌱 Passionate about **functional programming** and always exploring cutting-edge tools.  
 🔍 Strong focus on **clean, testable code** and scalable architectures.  
 🚀 Currently working with the **Typelevel stack** (Cats, Cats Effect, FS2, http4s, Doobie) and **Nuxt 3**.  
 📫 Reach me at: **m.yw.yau@gmail.com**
-
 ---
 
 ### 🔧 Technologies & Tools
@@ -14,6 +12,8 @@ Experienced in building robust backends, APIs, and cloud-native applications.
 #### Languages
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Frameworks & Libraries
 ![Cats Effect](https://img.shields.io/badge/Cats%20Effect-430098?style=for-the-badge&logo=scala&logoColor=white)
@@ -37,12 +37,11 @@ Experienced in building robust backends, APIs, and cloud-native applications.
 
 #### Testing
 ![ScalaTest](https://img.shields.io/badge/ScalaTest-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![Weaver](https://img.shields.io/badge/Weaver-430098?style=for-the-badge&logo=scala&logoColor=white)
+![Weaver Tests](https://img.shields.io/badge/Weaver-430098?style=for-the-badge&logo=scala&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 ![Gatling](https://img.shields.io/badge/Gatling-E1512C?style=for-the-badge&logo=gatling&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
 ---
 
 ### 🌟 Highlights
@@ -50,7 +49,6 @@ Experienced in building robust backends, APIs, and cloud-native applications.
 - ⚡ Building personal project backend systems using the **Typelevel stack**  
 - 📚 Exploring **Kafka** & **Event-driven architecture**  
 - ✍️ Writing about programming & software development on [my blog](https://mywyau.dev)  
-
 ---
 
 
