@@ -2,7 +2,7 @@
 
 ### Software Developer 
 🌱 Passionate about **programming** and always exploring cutting-edge tools.  
-🔍 Strong focus on **clean, testable code** and scalable architectures.  
+🔍 Strong focus on **clean, testable code**.  
 🚀 Currently working with Typescript, Nuxt3, Cloudflare, CDNs, Vercel and Python
 📫 Reach me at: **m.yw.yau@gmail.com**
 
