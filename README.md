@@ -1,9 +1,9 @@
 ## 👋 Hi, Michael here
 
 ### Software Developer 
-🌱 Passionate about **functional programming** and always exploring cutting-edge tools.  
+🌱 Passionate about **programming** and always exploring cutting-edge tools.  
 🔍 Strong focus on **clean, testable code** and scalable architectures.  
-🚀 Currently working with the **Typelevel stack** (Cats, Cats Effect, FS2, http4s, Doobie) and **Nuxt 3**.  
+🚀 Currently working with Typescript, Nuxt3, Cloudflare, CDNs, Vercel and Python
 📫 Reach me at: **m.yw.yau@gmail.com**
 
 ---
@@ -13,9 +13,8 @@
 #### Languages
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 #### Frameworks & Libraries
 ![Cats Effect](https://img.shields.io/badge/Cats%20Effect-430098?style=for-the-badge&logo=scala&logoColor=white)
@@ -48,8 +47,7 @@
 
 ### 🌟 Highlights
 - 🏢 Current role: **Scala Developer at HMRC**  
-- ⚡ Building personal project backend systems using the **Typelevel stack**  
-- 📚 Exploring **Kafka** & **Event-driven architecture**  
+- 📚 Building out my pet project [pet project](https://tarotea.dev)  **  
 - ✍️ Writing about programming & software development on [my blog](https://mywyau.dev)  
 ---
 
