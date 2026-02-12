@@ -47,7 +47,7 @@
 
 ### 🌟 Highlights
 - 🏢 Current role: **Scala Developer at HMRC**  
-- 📚 Building out my pet project [pet project](https://tarotea.dev)  **  
+- 📚 Building out my pet project [pet project](https://tarotea.dev) 
 - ✍️ Writing about programming & software development on [my blog](https://mywyau.dev)  
 ---
 
